@@ -2,6 +2,9 @@
 
 Hi there! I'm Ravi Raj — a passionate developer who loves building clean, efficient, and scalable solutions. I'm constantly learning and enjoy contributing to open-source projects, experimenting with new technologies, and solving real-world problems through code. <br/>
 
+## Leetcode:
+![](https://leetcard.jacoblin.cool/professionalravi156?border=0&radius=20)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-raj-137174321) 
 # 💻 Tech Stack:
